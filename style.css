@@ -7,7 +7,7 @@ html{
 #banner{
 padding-top:22%;
 font-family: 'Satisfy', cursive;
-font-size:35px;
+font-size:50px;
 display: flex;
 justify-content: center;
 color:#06ddcc;
@@ -34,6 +34,7 @@ color:#06ddcc;
  text-decoration:none;
   color: #BF00DB;
   font-family:'satisfy','sans-serif';
+  font-size: 25px;
 }
 .navbar a:hover {
   color:white;
